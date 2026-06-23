@@ -15,6 +15,15 @@ export const CATEGORIES: Record<string, string[]> = {
     'headcount', 'resourcing', 'prioritization', 'escalation', 'visibility',
     'accountability', 'ownership', 'buy-in', 'cross-functional',
   ],
+  'UFC / MMA': [
+    'knockout', 'TKO', 'submission', 'tap out', 'rear naked choke', 'armbar',
+    'guillotine', 'triangle choke', 'heel hook', 'ground and pound', 'takedown',
+    'sprawl', 'clinch', 'octagon', 'weigh-in', 'staredown', 'walkout',
+    'unanimous decision', 'split decision', 'judges scorecard', 'title shot',
+    'interim belt', 'main event', 'co-main', 'Fight of the Night',
+    'Performance of the Night', 'southpaw', 'orthodox', 'reach advantage',
+    'gas tank', 'cardio', 'output', 'And NEW!',
+  ],
   'Startup': [
     'pivot', 'runway', 'traction', 'growth hacking', 'unicorn', 'burn rate',
     'product-market fit', 'disruption', 'iterate', 'scale', 'ecosystem',
